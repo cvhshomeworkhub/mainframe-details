@@ -4730,4 +4730,94 @@ Since:
 11
 
 --- SUPPLEMENTALS ---
-(Human Geography AMSCO Textbook)
+(Extensive Algebra)
+# Polynomial Arithmetic
+
+## Introduction to Polynomials
+
+**Examples of Polynomials**
+
+- 10x⁷ - 9x² + 15x³ + 9
+- 9a² - 5
+- 6
+- 7y⁷ + 3y⁴ + π
+
+**Examples of “Non-Polynomials”**
+
+- 10x ⁻ ⁷ - 9x² + 15x³ + 9
+- 9a¹ᐟ² - 5
+- 9aᵃ - 5
+
+<aside>
+<img src="/icons/groups_gray.svg" alt="/icons/groups_gray.svg" width="40px" />
+
+A **polynomial** is made up of *multiple* terms added together.
+
+</aside>
+
+**Examples of Terms**
+
+- 10x⁷
+- - 9x²
+- 15x³
+- 9
+
+<aside>
+<img src="/icons/groups_gray.svg" alt="/icons/groups_gray.svg" width="40px" />
+
+**Terms** consists of *coefficients* (**10**x⁷) and *variables* (10**x⁷**).
+
+</aside>
+
+- Single numbers (ex. **9**) are also coefficients because they can be rewritten with the power of 0 (ex. 9x⁰).
+- The exponent of the variables must be **non-negative integers**
+    - No variables in the exponent
+
+**Monomial** → one term
+
+**Binomial** → two terms
+
+**Trinomial** → three terms
+
+**Degree** → highest exponent of a polynomial
+
+- Degree of 10x⁷ - 9x² + 15x³ + 9 is **7**
+
+**Leading Term** → first term in a polynomial
+
+- **Leading Coefficient** → coefficient of the *leading term*
+
+**Standard Form** → writing terms in order of degree
+
+- Ex. 10x⁷ - 9x⁶ + 15x⁵ + 9x³
+
+## Average Rate of Change of Polynomials
+
+Average Rate of Change of *f* over an interval [x, y] = **(f(x₂) - f(x₁))/(x₂ - x₁)**
+
+## Adding & Subtracting Polynomials
+
+### Adding Polynomials
+
+<aside>
+<img src="/icons/heart-rate-monitor_gray.svg" alt="/icons/heart-rate-monitor_gray.svg" width="40px" />
+
+You can only add like terms together.
+
+</aside>
+
+- No Need for Parentheses → Commutative Property of Addition
+
+### Subtracting Polynomials
+
+If there is a **-** sign before terms in parenthesis, each term is multiplied by **-1**.
+
+## Multiplying Monomials & Polynomials
+
+### Multiply Monomials
+
+**5x**² = **5 × x**²
+
+**Commutative Property of Multiplication** → rearrange terms that are multiplied
+
+- Add together exponents with the same base
